@@ -1,8 +1,15 @@
 <html>
+  
 <head>
+
     <title>Hello gt</title>
+
 </head>
+
 <body>
-    First git repo
+       background-color: #ccc;
+  
+  font-size: 15px; repo
 </body>
+
 </html>
